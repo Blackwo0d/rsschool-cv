@@ -1,3 +1,4 @@
+![photo](photo/photo.png)
 # Vedenko Dmitriy #
 ## Contacts ##
 ---
