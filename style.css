@@ -15,8 +15,12 @@ body {
 }
 .main {
     display: flex;
+    width: 75%;
+    margin: 0 auto;
     flex-wrap: wrap;
-    justify-content: space-between;  
+    justify-content: space-between;
+        
+
 }
 .footer {
     text-align:center;
@@ -64,11 +68,30 @@ img {
     margin: 2% 0 2% 30%;
 }
 #name {
-    height: 10em;
+    height: 4em;
     display: flex;
-    align-items: center;
-    justify-content: center
+    align-items:flex-end;
+    justify-content:center;
+       
 }
 #name2 {
-    
+    height: 0,5em;
+    display: flex;
+    align-items:flex-end;
+    justify-content:center;
+  
+}
+#name3 {
+    height: 1em;
+    display: flex;
+    align-items:flex-end;
+    justify-content:center;
+    text-decoration:overline rgb(57, 81, 99);
+    color: #ffffff00;
+}
+p {
+    padding: 15px;
+}
+h2 {
+    padding: 15px;
 }
