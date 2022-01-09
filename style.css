@@ -147,6 +147,10 @@ a {
     text-decoration: none;
     color:rgb(57, 81, 99);
 }
+.line {
+    align-items: center;
+    width: 300px; size: 2px;color:rgb(57, 81, 99);
+}
 @media (max-width: 768px) {
     .container {
       width: 100%;
